@@ -1,0 +1,11 @@
+C:\Users\oomishope\source\repos\PrimeTester\PrimeNumbersLab\bin\Debug\netcoreapp3.1\PrimeNumbersLab.exe
+C:\Users\oomishope\source\repos\PrimeTester\PrimeNumbersLab\bin\Debug\netcoreapp3.1\PrimeNumbersLab.deps.json
+C:\Users\oomishope\source\repos\PrimeTester\PrimeNumbersLab\bin\Debug\netcoreapp3.1\PrimeNumbersLab.runtimeconfig.json
+C:\Users\oomishope\source\repos\PrimeTester\PrimeNumbersLab\bin\Debug\netcoreapp3.1\PrimeNumbersLab.runtimeconfig.dev.json
+C:\Users\oomishope\source\repos\PrimeTester\PrimeNumbersLab\bin\Debug\netcoreapp3.1\PrimeNumbersLab.dll
+C:\Users\oomishope\source\repos\PrimeTester\PrimeNumbersLab\bin\Debug\netcoreapp3.1\PrimeNumbersLab.pdb
+C:\Users\oomishope\source\repos\PrimeTester\PrimeNumbersLab\obj\Debug\netcoreapp3.1\PrimeNumbersLab.csprojAssemblyReference.cache
+C:\Users\oomishope\source\repos\PrimeTester\PrimeNumbersLab\obj\Debug\netcoreapp3.1\PrimeNumbersLab.AssemblyInfoInputs.cache
+C:\Users\oomishope\source\repos\PrimeTester\PrimeNumbersLab\obj\Debug\netcoreapp3.1\PrimeNumbersLab.AssemblyInfo.cs
+C:\Users\oomishope\source\repos\PrimeTester\PrimeNumbersLab\obj\Debug\netcoreapp3.1\PrimeNumbersLab.dll
+C:\Users\oomishope\source\repos\PrimeTester\PrimeNumbersLab\obj\Debug\netcoreapp3.1\PrimeNumbersLab.pdb
